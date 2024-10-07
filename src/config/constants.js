@@ -1,0 +1,9 @@
+export const USERNAME = "";
+export const PASSWORD = "";
+export const GIST_DESCRIPTION = "TEST GIST";
+export const GIST_FILE_EXTENSION = "README.md";
+export const GIST_CONTENT = "This is test gist";
+export const UPDATE_DESCRIPTION = "UPDATE TEST GIST";
+export const TOKEN = "";
+export const FINE_GRAINED_TOKEN = "";
+export const API_BASE_URL = "https://api.github.com/gists";
