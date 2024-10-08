@@ -17,7 +17,7 @@ This project is a Playwright-based testing suite for [GITHUB GISTS FUCNTIONALITY
 
 - **Test Automation**: Automate test for Create and Update Gist for Web and API.
 
-- **Hooks**: To implement tear up and down logic a hooks is created in the tests
+- **Hooks**: To implement tear up logic a hook is created in each test
 
 - **Utils**: Random number created and also a github.login.ts helper class is created
 
